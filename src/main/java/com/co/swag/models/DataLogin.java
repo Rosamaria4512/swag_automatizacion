@@ -1,7 +1,7 @@
 package com.co.swag.models;
 
 public class DataLogin {
-
+////error
     public DataLogin(String user, String password) {
         this.user = user;
         this.password = password;
